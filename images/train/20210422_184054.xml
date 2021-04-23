@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20210422_184054.png</filename>
+	<path>C:\Users\Nick\Documents\quiddler\images\20210422_184054.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quiddler_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>2</ymin>
+			<xmax>738</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
